@@ -96,3 +96,8 @@
 - **Mysqsl 파티션 제약사항**
   - 파티션 테이블에서는 외래키 사용이 불가능
   - 파티션 테이블은 Full Text Index 생성이 불가능
+  
+  
+ # Reference 
+ Mysql : https://12bme.tistory.com/48
+ 개념 : https://gmlwjd9405.github.io/2018/09/24/db-partitioning.html
