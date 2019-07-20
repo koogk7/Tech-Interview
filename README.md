@@ -4,10 +4,17 @@
 * (앞으로 작성 될 내용들에는 잘못된 내용들이 있을 수 있습니다. 이러한 부분들에 대해 **Pull Reqeust** or **Issue**로 참여해주시면 감사하겠습니다.) 
 
 # Index
+
+## 개발상식
+  - [OOP 5원칙](https://github.com/koogk7/Tech-Interview/blob/master/DevelopementSense/%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A3%E1%86%BC%205%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%B5%E1%86%A8.md)
+  
+
 ## Database
   - [Transaction](https://github.com/koogk7/Tech-Interview/blob/master/database/%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8C%E1%85%A2%E1%86%A8%E1%84%89%E1%85%A7%E1%86%AB.md)
   - Partitioning and Sharding
 
-## Java
+## Java(8)
   - Collection Framework
+  - [Funtional Interface](https://github.com/koogk7/Tech-Interview/blob/master/Java/%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3.md)
+
 
