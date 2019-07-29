@@ -14,6 +14,7 @@
   - [Transaction](https://github.com/koogk7/Tech-Interview/blob/master/database/%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8C%E1%85%A2%E1%86%A8%E1%84%89%E1%85%A7%E1%86%AB.md)
   - [Partitioning](https://github.com/koogk7/Tech-Interview/blob/master/database/Partitioning.md)
   - [MYSQL 일기장](https://github.com/koogk7/Tech-Interview/blob/master/database/MYSQL%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%BC.md)
+  - [Redis-Spring Cache 참고자료](https://github.com/koogk7/Tech-Interview/blob/master/database/Redis.md)
 
 ## Java(8)
   - Collection Framework
