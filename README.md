@@ -9,6 +9,8 @@
 ## 개발상식
   - [OOP 5원칙](https://github.com/koogk7/Tech-Interview/blob/master/DevelopementSense/%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A3%E1%86%BC%205%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%B5%E1%86%A8.md)
   
+## OS
+  - [가상 메모리](https://github.com/koogk7/Tech-Interview/blob/master/OS/%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%20-%20%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%BC%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5.md)
 
 ## Database
   - [Transaction](https://github.com/koogk7/Tech-Interview/blob/master/database/%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8C%E1%85%A2%E1%86%A8%E1%84%89%E1%85%A7%E1%86%AB.md)
