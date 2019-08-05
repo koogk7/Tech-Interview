@@ -7,25 +7,26 @@
 
 
 ## 개발상식
-  - [OOP 5원칙](https://github.com/koogk7/Tech-Interview/blob/master/DevelopementSense/%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A3%E1%86%BC%205%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%B5%E1%86%A8.md)
+  - [OOP 5원칙](https://github.com/koogk7/Tech-Interview/blob/master/DevelopementSense/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%205%EC%9B%90%EC%B9%99.md)
   
 ## OS
-  - [가상 메모리](https://github.com/koogk7/Tech-Interview/blob/master/OS/%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%A6%20-%20%E1%84%80%E1%85%A1%E1%84%89%E1%85%A1%E1%86%BC%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5.md)
+  - [가상 메모리](https://github.com/koogk7/Tech-Interview/blob/master/OS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20-%20%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 
 ## Database
-  - [Transaction](https://github.com/koogk7/Tech-Interview/blob/master/database/%E1%84%90%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%8C%E1%85%A2%E1%86%A8%E1%84%89%E1%85%A7%E1%86%AB.md)
+  - [Transaction](https://github.com/koogk7/Tech-Interview/blob/master/database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
   - [Partitioning](https://github.com/koogk7/Tech-Interview/blob/master/database/Partitioning.md)
-  - [MYSQL 일기장](https://github.com/koogk7/Tech-Interview/blob/master/database/MYSQL%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%BC.md)
+  - [MYSQL 일기장](https://github.com/koogk7/Tech-Interview/blob/master/database/MYSQL%20%EC%9D%BC%EA%B8%B0%EC%9E%A5.md)
   - [Redis-Spring Cache 참고자료](https://github.com/koogk7/Tech-Interview/blob/master/database/Redis.md)
 
 ## Java(8)
   - Collection Framework
-  - [Funtional Interface](https://github.com/koogk7/Tech-Interview/blob/master/Java/%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3.md)
+  - [Funtional Interface](https://github.com/koogk7/Tech-Interview/blob/master/Java/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
   - [Stream API](https://github.com/koogk7/Tech-Interview/blob/master/Java/Stream%20API.md)
+  - [이펙티브 자바 - 정적팩토리메소드](https://github.com/koogk7/Tech-Interview/blob/master/Java/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94/%EC%95%84%EC%9D%B4%ED%85%9C%201%20%EC%A0%95%EC%A0%81%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.md)
 
 ## Python
-  - [Python 일기장 Part 1](https://github.com/koogk7/Tech-Interview/blob/master/Python/Python%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%BC%20Part%201.md)
-  - [Python 일기장 Part 2](https://github.com/koogk7/Tech-Interview/blob/master/Python/Python%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%BC%20Part%202.md)
+  - [Python 일기장 Part 1](https://github.com/koogk7/Tech-Interview/blob/master/Python/Python%20%EC%9D%BC%EA%B8%B0%EC%9E%A5%20Part%201.md)
+  - [Python 일기장 Part 2](https://github.com/koogk7/Tech-Interview/blob/master/Python/Python%20%EC%9D%BC%EA%B8%B0%EC%9E%A5%20Part%202.md)
   
 ## Javascript
  - [Node js 일기장](https://github.com/koogk7/Tech-Interview/blob/master/javascript/node%20js.md)
