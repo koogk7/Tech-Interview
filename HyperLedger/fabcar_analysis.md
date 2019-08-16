@@ -1,4 +1,4 @@
-# FabCar 소스코드 분석
+# FabCar 네트워크 동작 분석
 
 
 
@@ -79,7 +79,16 @@ cryptogen generate --config=./crypto-config.yaml
 
 `generateChannelArtifacts` 에서는 `configtxgen` 명령어를 통해 네트워크에 필요한 요소들을 만든다. 
 
-이후  networkUp() 에서 `docker-compose-cli.yaml` 를 도커에 올린다.
+> 채널, 오더, 피어등 네트워크에 대한 리소스 수정은 `crypto-config.yaml` 에서 할 수 있으며, MSP, 채널에 대한 정책 또는 조직등은 `configtx.yaml` 에서 수정할 수 있다.
+
+이후 `script.sh` 을 실행시킨다.
+
+```bash
+# now run the end to end script
+docker exec cli scripts/script.sh $CHANNEL_NAME $CLI_DELAY $LANGUAGE $CLI_TIMEOUT $VERBOSE $NO_CHAINCODE
+```
+
+`script.sh` 에서 채널을 만들고, 피어들을 가입시킨다. 이후 앵커피어를 설정하고 체인코드를 설치하고 인스턴스화 시킨다.
 
 
 
@@ -102,7 +111,11 @@ docker exec \
     -l "$CC_RUNTIME_LANGUAGE"
 ```
 
+>  `-e`  옵션은 환경변수 설정이다
+
 마찬가지로 다른 피어들에서도 smart contract를 설치한다.
+
+
 
 **이후 내 채널에 smart contract를 인스턴스화 시킨다.**
 
@@ -155,3 +168,16 @@ docker exec \
     --tlsRootCertFiles ${ORG2_TLS_ROOTCERT_FILE}
 ```
 
+
+
+
+
+### 의문점
+
+- enroll.js를 이용해 등록한 admin은 어떤 역할인가?
+- chaincode 추가 과정
+  - 1. chiancode 디렉토리에 프로젝트를 만들고 체인코드 작성
+    2. 체인코드의 트랜잭션을 호출하는 자바스크립트 작성
+    3. Docker img에 chiancode를 업로드
+
+- 결국 서버는 중앙집중식? 이게 탈중앙화???
