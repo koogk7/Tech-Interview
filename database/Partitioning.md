@@ -100,5 +100,5 @@
   
   
  # Reference 
- Mysql : https://12bme.tistory.com/48
+ Mysql : https://12bme.tistory.com/48  
  개념 : https://gmlwjd9405.github.io/2018/09/24/db-partitioning.html
