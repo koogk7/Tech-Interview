@@ -33,4 +33,4 @@
  
 ## 회고록
  - [제 4회 부산 ICT 융합 해커톤 후기](https://velog.io/@litien/-%EC%A0%9C-4%ED%9A%8C-%EB%B6%80%EC%82%B0-ICT-%EC%9C%B5%ED%95%A9-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81)
-
+ - [제 7 회 D2 CAMPUS FEST mini 후기](https://velog.io/@litien/%EC%A0%9C-7-%ED%9A%8C-D2-CAMPUS-FEST-mini-%ED%9B%84%EA%B8%B0)
